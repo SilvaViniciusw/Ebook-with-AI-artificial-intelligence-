@@ -26,7 +26,7 @@ _Prompts_:
 - crie um titulo de ebook sobre o tema de python, o ebook é do nincho de programacao e o subnincho é python, o titulo deve ser épico e curto , me liste 5 variacoes de titulo.
 
 - faca um texto para ebook, com foco no python , listando os principais tópicos com exemplos de código
-(regras)
+
 >  explique sempre de uma maneira simples 
 
 > deixe o texto enxuto 
